@@ -1,0 +1,19 @@
+= LZSS compress algorithm for Ruby
+
+== Requirement
+
+Ruby 1.9+
+
+C compiler (Mingw or VC console or GCC, etc..)
+
+== Install
+
+    gem install lzss
+
+== Usage
+
+See example
+
+== Link
+
+http://rednaxelafx.javaeye.com/blog/658308
